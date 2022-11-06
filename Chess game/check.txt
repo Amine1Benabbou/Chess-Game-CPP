@@ -1,0 +1,235 @@
+ piece : 1 
+ pos_x : 6 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 3 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 4 
+ pos_y : 4 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 6 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 6 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 6 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 0 
+ check : 1 
+-------------------------
+ piece : 6 
+ pos_x : 7 
+ pos_y : 0 
+ check : 1 
+-------------------------
+ piece : 5 
+ pos_x : 7 
+ pos_y : 1 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 6 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 3 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 1 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 3 
+ pos_y : 5 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 5 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 5 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 5 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 5 
+ pos_y : 5 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 5 
+ pos_y : 5 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 6 
+ check : 1 
+-------------------------
+ piece : 1 
+ pos_x : 6 
+ pos_y : 6 
+ check : 1 
+-------------------------
+ piece : 4 
+ pos_x : 7 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 6 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 4 
+ pos_x : 7 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : -2 
+ pos_x : 3 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 2 
+ pos_y : 5 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 1 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 2 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 2 
+ pos_y : 5 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 1 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 1 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 1 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 4 
+ pos_x : 7 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 4 
+ pos_x : 7 
+ pos_y : 2 
+ check : 1 
+-------------------------
+ piece : 5 
+ pos_x : 7 
+ pos_y : 1 
+ check : 1 
+-------------------------
+ piece : 2 
+ pos_x : 1 
+ pos_y : 1 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 4 
+ pos_y : 5 
+ check : 1 
+-------------------------
+ piece : -2 
+ pos_x : 2 
+ pos_y : 4 
+ check : 1 
+-------------------------
+ piece : -2 
+ pos_x : 3 
+ pos_y : 3 
+ check : 1 
+-------------------------
+ piece : -1 
+ pos_x : 1 
+ pos_y : 1 
+ check : 1 
+-------------------------
+ piece : -5 
+ pos_x : 0 
+ pos_y : 1 
+ check : 1 
+-------------------------

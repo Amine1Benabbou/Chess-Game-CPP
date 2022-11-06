@@ -1,0 +1,23 @@
+6
+ -6  -5  -4  -3  0  -4  0  -6 
+ -1  0  0  0  0  0  -1  -1 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  -2  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  -6  0  2  0  0  0 
+checkforcheckmate = false
+checkforcheckmate = true
+checkforcheckmate = true
+checkforcheckmate = true
+checkforcheckmate = true
+true2
+ -6  -5  -4  -3  0  -4  0  -6 
+ -1  0  0  0  0  0  -1  -1 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  -2  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  2  0  0  0 
+ 0  0  -6  2  0  2  0  0 

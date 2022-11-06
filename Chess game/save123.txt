@@ -1,0 +1,1302 @@
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 5  col : 2 
+ found : 1 
+ piece black : -2  row : 1  col : 4 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 1  row : 5  col : 2 
+ found : 1 
+ piece black : -2  row : 2  col : 5 
+ found : 1 
+ piece white : 1  row : 5  col : 2 
+ found : 1 
+ piece white : 3  row : 5  col : 2 
+ found : 1 
+ piece white : 1  row : 5  col : 2 
+ found : 1 
+ piece white : 1  row : 5  col : 2 
+ found : 1 
+ piece white : 1  row : 5  col : 2 
+ found : 1 
+ piece white : 1  row : 6  col : 3 
+ found : 1 
+ piece white : 1  row : 6  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 3 
+ found : 1 
+ piece black : -2  row : 2  col : 4 
+ found : 1 
+ piece black : -1  row : 1  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 0  col : 3 
+ found : 1 
+ piece white : 2  row : 0  col : 3 
+ found : 1 
+ piece white : 2  row : 1  col : 3 
+ found : 1 
+ piece white : 1  row : 1  col : 3 
+ found : 1 
+ piece white : 1  row : 1  col : 3 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 6  col : 4 
+ found : 1 
+ piece white : 1  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 1  row : 5  col : 3 
+ found : 1 
+ piece white : 1  row : 5  col : 3 
+ found : 1 
+ piece white : 1  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 2  row : 4  col : 2 
+ found : 1 
+ piece white : 2  row : 5  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 3  row : 4  col : 2 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece white : 4  row : 4  col : 2 
+ found : 1 
+ piece white : 3  row : 4  col : 2 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece white : 4  row : 4  col : 2 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece white : 1  row : 4  col : 2 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 1 
+ found : 1 
+ piece white : 2  row : 5  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 1 
+ found : 1 
+ piece white : 2  row : 5  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 1 
+ found : 1 
+ piece white : 2  row : 5  col : 1 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 2  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 2  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 1 
+ found : 1 
+ piece white : 2  row : 2  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 1 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 5  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 5  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 5  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 5  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 5  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 5  col : 0 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 5  col : 3 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece white : 2  row : 6  col : 2 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 3 
+ found : 1 
+ piece white : 2  row : 7  col : 3 
+ found : 1 
+ piece white : 2  row : 5  col : 5 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 2  row : 5  col : 5 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 3  row : 4  col : 5 
+ found : 1 
+ piece white : 2  row : 4  col : 5 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 6  row : 3  col : 5 
+ found : 1 
+ piece white : 1  row : 3  col : 5 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 3  col : 5 
+ found : 1 
+ piece white : 6  row : 3  col : 5 
+ found : 1 
+ piece black : -6  row : 0  col : 4 
+ found : 1 
+ piece white : 4  row : 3  col : 5 
+ found : 1 
+ piece white : 3  row : 3  col : 5 
+ found : 1 
+ piece white : 1  row : 3  col : 5 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 3  col : 5 
+ found : 1 
+ piece white : 1  row : 3  col : 5 
+ found : 1 
+ piece white : 3  row : 3  col : 5 
+ found : 1 
+ piece white : 6  row : 3  col : 5 
+ found : 1 
+ piece white : 3  row : 3  col : 5 
+ found : 1 
+ piece black : -4  row : 1  col : 4 
+ found : 1 
+ piece white : 1  row : 3  col : 5 
+ found : 1 
+ piece black : -1  row : 1  col : 4 
+ found : 1 
+ piece black : -1  row : 1  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 4 
+ found : 1 
+ piece white : 2  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 1  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 4  col : 3 
+ found : 1 
+ piece black : -2  row : 1  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 4 
+ found : 1 
+ piece white : 2  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 4  col : 3 
+ found : 1 
+ piece black : -6  row : 1  col : 5 
+ found : 1 
+ piece white : 2  row : 2  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 4 
+ found : 1 
+ piece white : 2  row : 4  col : 4 
+ found : 1 
+ piece black : -2  row : 1  col : 5 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 4  col : 3 
+ found : 1 
+ piece white : 2  row : 2  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 4 
+ found : 1 
+ piece white : 2  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 5 
+ found : 1 
+ piece white : 2  row : 3  col : 5 
+ found : 1 
+ piece white : 2  row : 4  col : 5 
+ found : 1 
+ piece black : -1  row : 3  col : 2 
+ found : 1 
+ piece white : 2  row : 2  col : 4 
+ found : 1 
+ piece white : 2  row : 3  col : 4 
+ found : 1 
+ piece white : 2  row : 4  col : 4 
+ found : 1 
+ piece black : -2  row : 3  col : 2 
+ found : 1 
+ piece white : 2  row : 1  col : 3 
+ found : 1 
+ piece white : 2  row : 2  col : 3 
+ found : 1 
+ piece white : 2  row : 3  col : 3 
+ found : 1 
+ piece black : -4  row : 4  col : 1 
+ found : 1 
+ piece black : -2  row : 4  col : 1 
+ found : 1 
+ piece white : 2  row : 1  col : 2 
+ found : 1 
+ piece white : 2  row : 2  col : 2 
+ found : 1 
+ piece white : 2  row : 3  col : 2 
+ found : 1 
+ piece white : 2  row : 1  col : 1 
+ found : 1 
+ piece white : 2  row : 2  col : 1 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece black : -2  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -6  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece black : -3  row : 4  col : 4 
+ found : 1 
+ piece black : -6  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -3  row : 4  col : 4 
+ found : 1 
+ piece black : -3  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 7 
+ found : 1 
+ piece white : 2  row : 1  col : 7 
+ found : 1 
+ piece white : 2  row : 2  col : 7 
+ found : 1 
+ piece white : 2  row : 3  col : 1 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece black : -5  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -5  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -6  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -6  row : 4  col : 4 
+ found : 1 
+ piece black : -5  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -5  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 4 
+ found : 1 
+ piece black : -4  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -2  row : 4  col : 4 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 4  col : 6 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece black : -2  row : 4  col : 6 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 2  row : 4  col : 0 
+ found : 1 
+ piece black : -1  row : 1  col : 7 
+ found : 1 
+ piece black : -4  row : 1  col : 7 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 1  col : 0 
+ found : 1 
+ piece white : 2  row : 2  col : 0 
+ found : 1 
+ piece white : 2  row : 3  col : 0 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 5  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 5 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 5 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 5 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece black : -2  row : 1  col : 4 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 2  col : 4 
+ found : 1 
+ piece black : -1  row : 2  col : 4 
+ found : 1 
+ piece black : -1  row : 2  col : 4 
+ found : 1 
+ piece black : -2  row : 2  col : 4 
+ found : 1 
+ piece black : -2  row : 2  col : 4 
+ found : 1 
+ piece black : -2  row : 2  col : 4 
+ found : 1 
+ piece black : -2  row : 3  col : 3 
+ found : 1 
+ piece black : -2  row : 3  col : 3 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -3  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece white : 3  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -5  row : 2  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 4  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 5  row : 7  col : 4 
+ found : 1 
+ piece black : -4  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 6  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 3  col : 3 
+ found : 1 
+ piece black : -2  row : 3  col : 3 
+ found : 1 
+ piece black : -2  row : 3  col : 3 
+ found : 1 
+ piece black : -2  row : 3  col : 3 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 1  col : 3 
+ found : 1 
+ piece black : -1  row : 1  col : 3 
+ found : 1 
+ piece black : -2  row : 1  col : 3 
+ found : 1 
+ piece black : -2  row : 2  col : 4 
+ found : 1 
+ piece white : 6  row : 7  col : 4 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 3 
+ found : 1 
+ piece white : 2  row : 6  col : 4 
+ found : 1 
+ piece white : 2  row : 7  col : 3 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -4  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 5  row : 7  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 5  row : 7  col : 4 
+ found : 1 
+ piece black : -4  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 3  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 3  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -4  row : 0  col : 4 
+ found : 1 
+ piece black : -4  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -3  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 3  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 1  col : 5 
+ found : 1 
+ piece black : -6  row : 1  col : 5 
+ found : 1 
+ piece black : -4  row : 1  col : 5 
+ found : 1 
+ piece white : 3  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece black : -5  row : 0  col : 4 
+ found : 1 
+ piece black : -2  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 
+ piece white : 1  row : 7  col : 4 
+ found : 1 
+ piece black : -1  row : 0  col : 4 
+ found : 1 

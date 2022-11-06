@@ -1,0 +1,176 @@
+//-----------------------------------------------------------
+//Tour:
+ //blanc
+	if((piece==pieces.rook))
+	{
+		if((xa==xd)||(ya==yd)) 
+		{
+			return true;
+		}
+	}
+ //noir	
+	if((piece==-pieces.rook))
+	{
+
+		if((xa==xd)||(ya==yd)) 
+		{
+			return true;
+		}
+	}
+
+//-------------------------------------------------------------------------------------
+//Fou:
+ //blanc
+	if((piece==pieces.bishop))
+	{
+		
+		if((abs(xa-xd)==abs(ya-yd)))
+		{
+			return true;
+		}
+	}
+	
+ //noir
+	if((piece==-pieces.bishop))
+	{
+		
+		if((abs(xa-xd)==abs(ya-yd)))
+		{
+			return true;
+		}	
+		
+	}	
+//-----------------------------------------------------------------------------------------------------
+//Reine:
+ //blanc
+	if((piece==pieces.queen))
+	{
+		
+			if((xa==xd)||(ya==yd)||(abs(xa-xd)==abs(ya-yd)))
+			{
+				return true;
+			}
+		
+	}
+ //noir
+	if((piece==-pieces.queen))
+	{
+		
+			if((xa==xd)||(ya==yd)||(abs(xa-xd)==abs(ya-yd)))
+			{
+				return true;
+			}
+		
+	}
+//------------------------------------------------------------------------------------------------------	
+//Roi:
+ //blanc
+	if((piece==pieces.king))
+	{	
+		
+		
+			if((abs(xa-xd)==1 || abs(ya-yd)==1))
+			{
+				if((xa==xd || ya==yd) || (abs(xa-xd)==abs(ya-yd)))
+				{
+					return true;
+				}
+			}
+		
+	}
+ //noir
+	if((piece==-pieces.king))
+	{
+		
+			if((abs(xa-xd)==1 || abs(ya-yd)==1))
+			{
+				if((xa==xd || ya==yd) || (abs(xa-xd)==abs(ya-yd)))
+				{
+					return true;
+				}
+			}
+		
+	}
+#--
+// pawn black
+
+{
+    
+   if(piece == pieces.Pawn){
+
+    if(xd==6)
+    {
+        if (((ya == yd ) && (xa == xd- 2))||((ya == yd) && (xa == xd-1)))
+        {
+            return true;
+        }
+    }
+    else 
+    {
+        if(((ya == yd ) && (xa == xd- 1)))
+        {
+            return true;
+        }
+    }
+   
+}
+
+//pawn white
+if(piece == -pieces.Pawn)
+    {
+        if(xd == 1)
+    {
+        if (((ya == yd ) && (xa == xd+ 2))||((ya == yd ) && (xa == xd+ 1)))
+        {
+            return true;
+        }
+    }
+    else 
+    {
+        if(((ya == yd ) && (xa == xd+ 1)))
+        {
+            return true;
+        }
+    }
+    
+    }
+    	
+
+
+
+
+
+
+
+		// step.x = step.x - 8 * screenWidth / 8;
+		// DrawTextureRec(SelectionPiece, tSelectionPiece.rec, selection_pos, WHITE);
+		// for (int j = 0; j < 16; j++)
+		// {
+
+		// 	DrawTextureRec(selection, Tselection.rec, step, WHITE);
+		// 	step.x = step.x + screenWidth / 8;
+		// }
+		// step.x = selection_pos.x;
+		// step.y = step.y - 8 * screenWidth / 8;
+		// for (int j = 0; j < 16; j++)
+		// {
+		// 	DrawTextureRec(selection, Tselection.rec, step, WHITE);
+		// 	step.y = step.y + screenWidth / 8;
+		// }
+
+
+		// step.x = step.x - 8 * screenWidth / 8;
+		// step.y = step.y - 8 * screenWidth / 8;
+			// for (int i = 0; i < 16; i++)
+		// {
+		// 	for (int j = 0; j < 16; j++)
+		// 	{
+		// 		if (i == j || i + j == 16)
+		// 		{
+		// 			DrawTextureRec(selection, Tselection.rec, step, WHITE);
+		// 		}
+		// 		step.x = step.x + screenWidth / 8;
+		// 	}
+		// 	step.y = step.y + screenWidth / 8;
+		// 	step.x = selection_pos.x - 8 * screenWidth / 8;
+		// }
